@@ -1,3 +1,4 @@
+// glitchのURL↓は各自のURLを入力してください。
 var GLITCH_URL = "https://*******.glitch.me";
 
 function wakeGlitch(){
